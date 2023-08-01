@@ -2,12 +2,12 @@
 
 **Programm starten:**
 
-> npm install
-> node index
+- > npm install
+- > node index
 
 **Tests starten:**
 
-> npm run test
+- > npm run test
 
 ---
 
